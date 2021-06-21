@@ -15,6 +15,12 @@ database format SQL
 
 code PHP 
 
+Brief description of the, project
+
+1-I have created an html page and designed it for the arm control and it contains 5 slider ranges, each of them contains the drive valued 0-180 to be moved remotely to the required degree
+
+2- It has been linked to a database so that the robot's motors can be controlled,
+
 The project was done with groups:
 
 Ebtehal Al-Sahli
