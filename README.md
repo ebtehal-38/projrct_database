@@ -14,3 +14,11 @@ page HTML
 database format SQL
 
 code PHP 
+
+The project was done with groups:
+
+Ebtehal Al-Sahli
+
+Raneem Al-Ghanimi
+
+Asia Abdul Rahman Al-Harbi
